@@ -469,7 +469,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/DSuarez03", "_blank");
+          window.open("https://github.com/danielsuareza", "_blank");
         },
       },{
         id: 'social-linkedin',
